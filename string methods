@@ -1,0 +1,35 @@
+name="pradeep kumar "
+name1="1 2 3 4 A"
+s="1 2 3 "
+s1="Pradeep"
+s2="PRADEEp"
+s3="     Hello  world   "
+s4="pradeep"
+s5=("12")
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.swapcase())
+print(name.isalpha())
+print(name1.isdigit())
+print(s.isalnum())
+print(s1.islower())
+print(s2.isupper())
+print(s3.isspace())
+print(s4.title())
+print(s4.istitle())
+print(name.find("kumar"))
+print(name.find("ajith"))
+print(name.index("kumar"))
+print(name.index("ajith"))
+print(name.replace("kumar","joy"))
+print(name.count("a"))
+print(s3.strip())
+print(s3.lstrip())
+print(s3.rstrip())
+print(s4.zfill(129))
+
+
+
+
+
